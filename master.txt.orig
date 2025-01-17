@@ -1,6 +1,6 @@
 original message
-
+<<<<<<< HEAD
 new feature added by team member 1
-
+=======
 feature added by team member b
-
+>>>>>>> B
